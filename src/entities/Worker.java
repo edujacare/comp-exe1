@@ -70,7 +70,7 @@ public class Worker {
 	}
 	
 	public void removeContract(HourContract contract) {
-		contracts.remove(contracts);
+		contracts.remove(contract);
 	}
 	
 	public Double income(int year, int month) {
